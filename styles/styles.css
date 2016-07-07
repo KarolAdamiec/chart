@@ -1,0 +1,21 @@
+body {
+  font: 1rem sans-serif;
+}
+.menu {
+    margin: 15px;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: lightgrey;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: blue;
+  stroke-width: 2px;
+}
